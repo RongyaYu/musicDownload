@@ -1,3 +1,14 @@
+发现一个狠货：GitHub 上的 musicDownload，直接把主流音乐平台整合到一起了。
+
+酷狗、酷我、QQ 音乐、网易云、咪咕都能搜，支持无损音质、批量下载、歌单一键打包。
+
+不用来回切 App，也不用到处找资源，一个工具直接搞定。
+
+GitHub：github.com/MrsEWE44/music…
+
+
+
+
 <h1 align="center">MusicDownload</h1>
 
 <p align="center">
